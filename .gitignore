@@ -1,0 +1,16 @@
+# Environments
+.venv/
+venv/
+env/
+__pycache__/
+
+# Data & Large Weights
+data/
+models/*.bin
+models/*.pt
+models/*.onnx
+
+# IDE & OS files
+.DS_Store
+.vscode/
+.ipynb_checkpoints/
